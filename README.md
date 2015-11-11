@@ -1,7 +1,7 @@
 # Cineam4D_Plugins
 C4D Version: R16 
 
-INSTALL: drop the Aligber floder into the cinema 4D Plugin folder.
+INSTALL: drop the Aligner floder into the cinema 4D Plugin folder.
 
 This is my first ever Plugin for anything ever! So I am assuming there will be
 bugs and some over all code that could be avoided.
